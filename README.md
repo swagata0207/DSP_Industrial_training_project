@@ -3,4 +3,4 @@ I have worked on this Data Science project during industrial training in my B.Te
 
 # Ploting data with matplotlib and seaborn
 Energy Index time series plot like following
-![]()
+![](/../assets/plots/ei_yearly.png)
