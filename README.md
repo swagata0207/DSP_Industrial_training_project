@@ -4,15 +4,15 @@ I have worked on this Data Science project during industrial training in my B.Te
 # Ploting data with matplotlib and seaborn
 Energy Index time series plot like following
 
-![](/../assets/plots/ei_yearly.png)
+![yearly](/../assets/plots/ei_yearly.png)
 
 # Heatmap
 Plotted heatmap on a pivot table
 
-![](/../assets/plots/ei_heatmap.png)
+![heatmap](/../assets/plots/ei_heatmap.png)
 
 # Density plot using seaborn
-![]()
+![density](/../assets/plots/ei_density.png)
 
 # Machine Learning model implementation
 Implemented machine learning model (polynomial regression) to predict index at a time
