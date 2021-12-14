@@ -15,4 +15,6 @@ Plotted heatmap on a pivot table
 ![density](/../assets/plots/ei_density.png)
 
 # Machine Learning model implementation
-Implemented machine learning model (polynomial regression) to predict index at a time
+Implemented machine learning model (using polynomial regression) to predict index at a time and plotted best fit curve for year - energy index plot
+
+![bfc](/../assets/plots/ei_bfc.png)
